@@ -18,8 +18,10 @@ OldModz95
 ## Installation
 <br>
 
--Download Folder and launch folder.exe / Please run the first exe to check if any updates are available.
--Télécharge le fichier et lance le fichier.exe / Merci de lancer le premier exe pour vérifier si des mises à jour sont disponible.
+-Download Folder and launch folder.exe<br>
+Please run the first exe to check if any updates are available.<br><br>
+-Télécharge le fichier et lance le fichier.exe<br>
+Merci de lancer le premier exe pour vérifier si des mises à jour sont disponible.
 
 <br>
 
