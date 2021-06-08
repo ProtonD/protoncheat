@@ -25,7 +25,7 @@ Merci de lancer le premier exe pour vérifier si des mises à jour sont disponib
 
 <br>
 
-# SOON !!!
+# V0.0.1 https://github.com/ProtonD/protoncheat/releases/tag/0.0.1
 
 <br>
 <br>
